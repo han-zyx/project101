@@ -1,0 +1,20 @@
+
+
+___________code structure____________
+
+1.Create aunthetication and host address with js
+2.get request from client side - rest extention
+3.Use API through chatengine.io to create new authentication - this website provide all chat tools for nodeJs and react
+
+4.create frontend with react
+5.Log through the API to server(axios)
+6.install react chat engine to chat interface (If we want we caan customize it)
+
+
+
+
+___________Links____________
+
+1.BlogPost : https://blog.chatengine.io/fullstack-chat/nodejs-reactjs 
+2.Youtube link : https://youtu.be/Fzv-rgwcFKk
+3.chat Engine : https://chatengine.io/
